@@ -1,0 +1,34 @@
+{
+	"id": "5474f2eb-c5d8-4cba-bbe5-c2248d6e3bf7",
+	"name": "2474802010038_PhamHoaiBao_ReqRes_Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "api-key",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-22T13:44:01.936Z",
+	"_postman_exported_using": "Postman/12.33.3-261022-0328"
+}
